@@ -18,4 +18,4 @@ or look here https://johanzhu.github.io/react-router-Demo/
     npm install 
     npm start
 来安装依赖包和启动
-也可在点击<a href="lancelotm.github.io/react-router-demo/">这里</a>直接观看~^-^
+也可在点击 http://lancelotm.github.io/react-router-demo/ 直接观看~^-^
